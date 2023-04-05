@@ -27,7 +27,7 @@ Soy desarrolladora Frontend Web y Mobile, me Encanta el Diseño y plasmarlo a c�
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt=" firebase" width="32" height="32"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="40"/> </sub>
 </p>
 
 <h3 align="left">Contáctame:</h3>
