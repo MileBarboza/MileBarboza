@@ -11,7 +11,8 @@ Soy desarrolladora Frontend Web y Mobile, me Encanta el Diseño y plasmarlo a c�
     <img src='./assets/petalos.gif' alt="gif " height="70" width="90"> 
 </div>
 
-- Todos mis proyectos están en [https://github.com/MileBarboza](github.com )
+<!--Todos mis proyectos están en [https://github.com/MileBarboza](github.com )-->
+- Todos mis proyectos están en https://github.com/MileBarboza?tab=repositories
 
 <h3 align="left">Skills:</h3>
 <p align="center"> 
