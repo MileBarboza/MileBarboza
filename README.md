@@ -1,5 +1,4 @@
 <h1 align="center">soy Mile!</h1>
-<h3 align="center" fontSize="20">Frontend Developer</h3>
 
 Soy desarrolladora Frontend Web y Mobile, me Encanta el Diseño y plasmarlo a código ❤️
 
@@ -30,7 +29,4 @@ Soy desarrolladora Frontend Web y Mobile, me Encanta el Diseño y plasmarlo a c�
   <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="40"/> </sub>
 </p>
 
-<h3 align="left">Contáctame:</h3>
-<p align="left" >
-<a href="https://www.linkedin.com/in/mile-barboza/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="25" width="25" /></a>
-</p>
+
